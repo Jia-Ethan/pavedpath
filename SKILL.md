@@ -1,6 +1,18 @@
 ---
 name: pavedpath
-description: Use for non-code practical problem solving when the user wants a lawful, effective, feasible real-world path: mature method, proven workflow, tool choice, buying decision, learning route, creator/content process, career preparation, local-service approach, workaround, unofficial community process, or practical plan that may already have public internet evidence. PavedPath frames the real outcome, routes retrieval through Agent Reach first when live public-internet evidence is needed and available, checks hard legality and feasibility boundaries, grades evidence by real-world usefulness, extracts repeated patterns, compares candidate paths, and answers with executable steps. Do not use for software engineering bugs, build/deploy failures, code implementation, dependency/API issues, or GitHub/open-source code adaptation; route those to PavedPath Code.
+description: >
+  Use for non-code practical problem solving when the user wants a lawful,
+  effective, feasible real-world path: mature method, proven workflow, tool
+  choice, buying decision, learning route, creator/content process, career
+  preparation, local-service approach, workaround, unofficial community process,
+  or practical plan that may already have public internet evidence. PavedPath
+  frames the real outcome, routes retrieval through Agent Reach first when live
+  public-internet evidence is needed and Agent Reach is available, checks hard
+  legality and feasibility boundaries, grades evidence by real-world usefulness,
+  extracts repeated patterns, compares candidate paths, and answers with
+  executable steps. Do not use for software engineering bugs, build/deploy
+  failures, code implementation, dependency/API issues, or GitHub/open-source
+  code adaptation; route those to PavedPath Code.
 ---
 
 # PavedPath
