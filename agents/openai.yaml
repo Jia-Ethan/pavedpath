@@ -1,0 +1,4 @@
+interface:
+  display_name: "PavedPath"
+  short_description: "Find proven paths for non-code problems from the open internet."
+  default_prompt: "Use PavedPath to frame my non-code problem, research mature public-internet approaches with the best available backend, compare the strongest paths, and answer at the right depth."
