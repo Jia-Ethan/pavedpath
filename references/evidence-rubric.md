@@ -4,14 +4,24 @@ Use this rubric to turn internet material into reliable paths instead of source 
 
 ## Evidence strength tiers
 
-1. **Official or primary facts**: official rules, manuals, platform docs, government pages, manufacturer specifications, pricing pages, and policy pages.
+1. **Official or primary constraints**: official rules, manuals, platform docs, government pages, manufacturer specifications, pricing pages, policy pages, and terms. These define what is allowed, priced, supported, or required; they rarely prove the best practical path by themselves.
 2. **Repeated long-term experience**: many independent users reporting similar outcomes over time, especially with costs, constraints, and failure cases.
 3. **Deep reviews and tutorials**: detailed comparisons, long-form videos, teardown posts, measured tests, or walkthroughs with visible methodology.
 4. **Failure reports and retrospectives**: posts explaining what did not work, why it failed, and what replaced it.
 5. **Ordinary anecdotes**: individual experience posts that may be useful but should not dominate recommendations.
 6. **Promotional or hype content**: ads, affiliate-heavy reviews, viral recommendation posts, launch copy, and posts with no tradeoffs.
 
-Prefer higher tiers, but combine tiers when they answer different parts of the problem. For example, use official docs for rules and repeated user reports for lived experience.
+Prefer higher tiers, but combine tiers when they answer different parts of the problem. Use official sources for constraints and repeated user reports for lived execution.
+
+## Constraints are not solutions
+
+Do not let official evidence crowd out the answer when the user asks for a practical solution.
+
+- Official prices, policies, rules, and documentation answer "what are the constraints?"
+- User reports, long-term reviews, failure cases, and forum discussions answer "what actually works?"
+- PavedPath must combine both into "what should this user do next?"
+
+A policy-only answer is acceptable only when the user explicitly asks only for policy, rules, eligibility, or price facts. Otherwise, policy is one input into route selection.
 
 ## Anti-hype filters
 
@@ -42,6 +52,19 @@ Do not summarize every source one by one unless the user asks for a source revie
 3. Turn each cluster into a named candidate path.
 4. Compare paths by fit, cost, effort, reversibility, maintenance burden, and evidence quality.
 5. Recommend the smallest path that solves the user's goal without unnecessary complexity.
+
+## Premise handling
+
+Do not spend the answer arguing with the user's premise unless the correction changes which paths are feasible.
+
+When an assumption is wrong or incomplete:
+
+- translate it into constraints;
+- remove infeasible routes;
+- explain the viable alternatives;
+- keep the answer oriented toward the requested outcome.
+
+Prefer: "Given this constraint, the viable paths are A/B/C." Avoid: "Your premise is wrong" as the main answer.
 
 ## Conflict handling
 
