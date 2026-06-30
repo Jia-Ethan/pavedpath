@@ -1,4 +1,4 @@
 interface:
   display_name: "PavedPath"
-  short_description: "Find proven paths for non-code problems from the open internet."
-  default_prompt: "Use PavedPath to frame my non-code problem, use Agent Reach first when live public-internet evidence is needed and available, compare the strongest practical paths, and answer with executable steps at the right depth."
+  short_description: "Find lawful, effective, feasible paths for non-code problems."
+  default_prompt: "Use PavedPath to identify my real non-code objective, check only the hard legality/feasibility boundaries that affect the route, use Agent Reach first when live public-internet evidence is needed and available, compare official constraints with real-world community evidence and lawful workarounds, then recommend the most lawful, effective, feasible practical path with executable steps."
