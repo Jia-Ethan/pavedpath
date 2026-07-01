@@ -1,6 +1,6 @@
 # Output Modes
 
-PavedPath chooses the smallest answer shape that solves the user's real problem with a lawful, effective, feasible path.
+PavedPath chooses the smallest answer shape that solves the user's real problem with a lived-practice-first, effective, feasible path.
 
 ## Quick Path
 
@@ -14,7 +14,7 @@ Why this path works: ...
 Do this: ...
 ```
 
-Keep it short. Mention evidence only if it materially changes the route, confidence, legality, or if the user asked for sources.
+Keep it short. Mention evidence only if it materially changes the route, confidence, or if the user asked for sources. Do not add “official policy not checked” unless the user asked for policy verification.
 
 ## Decision Brief
 
@@ -32,7 +32,7 @@ Avoid / delay: ...
 Next action: ...
 ```
 
-Use a table only when it makes comparison easier. Do not over-explain obvious options. Do not rank a route higher merely because it is official; rank it higher when it better achieves the user's lawful objective under current constraints.
+Use a table only when it makes comparison easier. Do not over-explain obvious options. Do not rank a route higher merely because it is official; rank it higher when repeated practice and practical facts show it better achieves the user's objective under current constraints.
 
 ## Project Playbook
 
@@ -41,9 +41,9 @@ Use when the user asks for a system, workflow, launch plan, content operation, s
 Format:
 
 ```text
-Goal and hard boundaries
+Goal and practical boundaries
 Evidence-backed real-world patterns
-Recommended lawful + effective path
+Recommended effective path
 Implementation steps
 Tools / materials
 Failure conditions and adjustments
@@ -55,6 +55,6 @@ Make it executable. If the project has phases, phase one must be genuinely usabl
 ## Escalation and downgrade
 
 - Downgrade to Quick Path if the user's wording asks for a quick take.
-- Escalate to Decision Brief when there are two or more credible paths, including official and lawful non-official paths.
+- Escalate to Decision Brief when there are two or more credible paths, including official and non-official paths.
 - Escalate to Project Playbook when the answer requires workflow design, sequencing, roles, or repeated execution.
 - If evidence is thin, keep the structure but mark the evidence basis briefly only where it changes confidence or route choice.

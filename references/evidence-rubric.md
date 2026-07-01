@@ -1,33 +1,22 @@
 # Evidence Rubric
 
-Use this rubric to turn internet material into reliable paths instead of source piles. PavedPath does not rank evidence by institutional prestige alone. It ranks evidence by **what role it can safely play in the decision**.
+Use this rubric to turn internet material into reliable paths instead of source piles. PavedPath does not rank evidence by institutional prestige alone. It ranks evidence by **what role it can safely play in execution**.
 
 ## Evidence roles
 
-### 1. Hard-boundary evidence
-
-Use authoritative or primary sources to confirm constraints that can block the route:
-
-- law, regulation, eligibility, required materials, official processing rules;
-- current prices, fees, availability, platform limits, warranty/support terms;
-- safety-critical instructions, financial/payment requirements, identity requirements;
-- publication or commercial-use conditions when the user's output will be public, sold, submitted, or high-impact.
-
-These sources answer **what is allowed, required, priced, supported, or currently limited**. They do not automatically answer **what works best**.
-
-### 2. Reality-proven path evidence
+### 1. Reality-proven path evidence
 
 Use lived and repeated public experience to decide which route is actually useful:
 
 - multiple independent users reporting the same method over time;
 - forum threads with follow-up comments, corrections, and later outcomes;
 - long-term reviews, “after 6 months” reports, and maintenance notes;
-- community workflows, unofficial but lawful workarounds, local playbooks, and alternative procedures;
+- community workflows, workarounds, local playbooks, and alternative procedures;
 - cross-platform repetition: the same pattern appearing on forums, video comments, blogs, social platforms, and Q&A sites.
 
-This evidence often carries the most weight for practical execution, especially when official material only describes the conservative or supported path.
+This evidence usually carries the most weight for practical execution, especially when official material only describes the conservative or supported path.
 
-### 3. Detailed field reports and tutorials
+### 2. Detailed field reports and tutorials
 
 Promote detailed sources when they show:
 
@@ -36,33 +25,57 @@ Promote detailed sources when they show:
 - alternatives tried and rejected;
 - comments or follow-ups that confirm, update, or challenge the method.
 
-### 4. Failure reports and retrospectives
+### 3. Failure reports and retrospectives
 
 Failure evidence is not secondary. It often reveals the fastest route by showing what to avoid:
 
 - what failed, under which conditions, and why;
 - which replacement route worked;
-- whether the failure came from outdated rules, local constraints, missing materials, unrealistic maintenance, or a bad fit for the user type.
+- whether the failure came from outdated assumptions, local constraints, missing materials, unrealistic maintenance, or a bad fit for the user type.
 
-### 5. Ordinary anecdotes
+### 4. Practical factual inputs
+
+Use official product pages, manufacturer pages, platform pages, manuals, support pages, and price/spec pages as factual inputs when they affect execution:
+
+- current price, availability, configuration, feature support, warranty wording, return windows, shipping/pickup options;
+- manufacturer or platform limits that change cost, timing, support, or feasibility.
+
+These sources answer **what is currently offered, priced, supported, or limited**. They do not automatically answer **which route people successfully use**.
+
+### 5. Policy / rule / compliance evidence
+
+Do not gather this category by default. Use authoritative or primary sources only when the user asks about policy, rules, legality, tax, customs, official requirements, compliance terms, or when the answer itself is a policy answer.
+
+These sources may answer **what is officially required or restricted**. They are not the default route source for ordinary “how should I actually do this?” PavedPath tasks.
+
+### 6. Ordinary anecdotes
 
 Single-user reports can seed hypotheses, but should not dominate the recommendation unless the task is narrow and the anecdote closely matches the user's constraints.
 
-### 6. Promotional, SEO, or hype content
+### 7. Promotional, SEO, or hype content
 
 Demote ads, affiliate-heavy posts, launch copy, unboxing-only videos, listicles, and viral recommendations with no tradeoffs, operating conditions, or failure discussion.
 
-## Constraints are not solutions
+## Practice evidence is the default solution source
 
 Do not let official evidence crowd out the answer when the user asks for a practical solution.
 
-- Official pages answer: “what are the hard rules, prices, required materials, and supported limits?”
 - Public practice answers: “what actually works, where it breaks, and which route people keep using?”
-- PavedPath must combine both into: “what should this user do next?”
+- Official product/support pages answer: “what is currently priced, configured, available, or supported?”
+- Official policy/rule sources answer policy questions only when the user asks for them.
+- PavedPath must convert repeated practice into: “what should this user do next?”
 
-A policy-only answer is acceptable only when the user explicitly asks only for policy, rules, eligibility, or price facts. Otherwise, policy is one input into route selection.
+A policy-only answer is acceptable only when the user explicitly asks only for policy, rules, eligibility, legality, tax, customs, or price facts. Otherwise, policy is not part of default retrieval.
 
-## Lawful does not mean official-only
+## No automatic official-policy fallback
+
+If there are no reusable existing experience posts, method posts, failure reports, or comment threads:
+
+1. Say so directly: “I did not find reusable existing experience / method posts.”
+2. Do not automatically switch to government, customs, tax, legal, platform terms, or policy PDFs.
+3. Offer only the relevant continuation choices if useful: broaden platforms/languages, check official sources, or infer cautiously from adjacent cases.
+
+## Unofficial does not mean lower quality
 
 Do not downgrade a route merely because it is:
 
@@ -71,9 +84,9 @@ Do not downgrade a route merely because it is:
 - a community workaround;
 - a local or folk process;
 - based on imperfect but adequate source tracking for internal/non-commercial use;
-- a grey social practice that remains lawful and practically feasible.
+- a grey social practice that is repeatedly reported as workable and does not hit hard exclusions.
 
-Do downgrade or exclude a route when current evidence shows it is illegal, depends on deception, requires stolen credentials or private data, bypasses security controls maliciously, impersonates another person, or cannot be confirmed lawful when legality directly determines feasibility.
+Do downgrade or exclude a route when current evidence shows it depends on fraud, theft, stolen credentials, private data trafficking, malicious security-control bypass, impersonation, malicious intrusion, or other clearly illegal conduct.
 
 ## Publication-grade requirements are contextual
 
@@ -107,10 +120,10 @@ Do not summarize every source one by one unless the user asks for a source revie
 
 1. Group sources by the path they support.
 2. Identify repeated claims, repeated failures, repeated workarounds, and repeated decision criteria.
-3. Separate hard-boundary evidence from real-execution evidence.
+3. Separate real-execution evidence from practical factual inputs and policy-only material.
 4. Turn each cluster into a named candidate path.
 5. Compare paths by fit, speed, cost, effort, prerequisites, reversibility, maintenance burden, and evidence quality.
-6. Recommend the smallest lawful path that reaches the user's goal without unnecessary ceremony.
+6. Recommend the smallest feasible path that reaches the user's goal without unnecessary ceremony.
 
 ## Premise handling
 
@@ -135,7 +148,7 @@ When sources disagree, separate the disagreement by condition:
 - internal draft vs public/commercial release;
 - short-term workaround vs long-term operating system;
 - personal preference vs measurable outcome;
-- old platform rules vs current rules;
-- official supported route vs lawful community route.
+- old platform behavior vs current behavior;
+- official supported route vs repeatedly used community route.
 
 If conflict remains unresolved, choose the route with the better outcome-to-evidence fit, and state the unresolved condition only if it affects what the user should do.
