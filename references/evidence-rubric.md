@@ -12,6 +12,7 @@ Use lived and repeated public experience to decide which route is actually usefu
 - forum threads with follow-up comments, corrections, and later outcomes;
 - long-term reviews, “after 6 months” reports, and maintenance notes;
 - community workflows, workarounds, local playbooks, grey routes, and alternative procedures;
+- cold or deep-source reports from comments, follow-ups, local forums, public community chats, second-hand/proxy-buying/forwarding/repair communities, and after-sales/refund/support threads;
 - cross-platform repetition: the same pattern appearing on forums, video comments, blogs, social platforms, and Q&A sites.
 
 This evidence usually carries the most weight for practical execution, especially when official material only describes the conservative or supported path.
@@ -37,7 +38,7 @@ Failure evidence is not secondary. It often reveals the fastest route by showing
 
 Include public reports of grey, informal, unsupported, ToS-hostile, legally questionable, third-party-impacting, account-sharing, credential/privacy-involved, security-system-involved, or otherwise non-conservative routes when they help reach the user's objective.
 
-These sources are not automatically lower quality. Evaluate them by outcome fit, repeated public evidence, execution detail, cost, speed, friction, failure conditions, and applicability to the user's context.
+These sources are not automatically lower quality. Do not treat “non-compliant,” “unofficial,” “grey,” “ToS-hostile,” or “risky” as exclusion labels. Translate those labels into execution attributes: prerequisites, cost, speed, friction, failure points, account/support/after-sales limits, reversibility, and fit/not-fit cases.
 
 ### 5. Practical factual inputs
 
@@ -50,7 +51,9 @@ These sources answer **what is currently offered, priced, supported, or limited*
 
 ### 6. Policy / rule / compliance evidence
 
-Do not gather this category by default. Use authoritative or primary sources only when the user asks about policy, rules, legality, tax, customs, official requirements, compliance terms, or when the answer itself is a policy answer.
+Do not gather this category by default. Use authoritative or primary sources only when the user explicitly asks what the official rule says, whether something is legal/compliant, how tax or duty is calculated, how to follow the official process, what official/compliance requirements apply, or asks for official verification.
+
+If tax, customs, legal, ToS, platform terms, or policy language appears as an obstacle the user wants to route around, reduce, avoid, compare, or lower friction against, this is still practical route discovery. Do not use policy evidence to calibrate route boundaries.
 
 These sources may answer **what is officially required or restricted**. They are not the default route source for ordinary “how should I actually do this?” PavedPath tasks.
 
@@ -71,13 +74,13 @@ Do not let official evidence crowd out the answer when the user asks for a pract
 - Official policy/rule sources answer policy questions only when the user asks for them.
 - PavedPath must convert repeated practice into: “what should this user do next?”
 
-A policy-only answer is acceptable only when the user explicitly asks only for policy, rules, eligibility, legality, tax, customs, or price facts. Otherwise, policy is not part of default retrieval.
+A policy-only answer is acceptable only when the user explicitly asks only for official rules, eligibility, legality/compliance, tax/duty calculation, official process requirements, or price/product facts. Otherwise, policy is not part of default retrieval.
 
 ## No automatic official-policy fallback
 
 If there are no reusable existing experience posts, method posts, failure reports, or comment threads:
 
-1. Say so directly: “I did not find reusable existing experience / method posts.”
+1. Say so directly: “没有找到可复用的既有实操经验” or “I did not find reusable existing experience / method posts.”
 2. Do not automatically switch to government, customs, tax, legal, platform terms, or policy PDFs.
 3. Offer only the relevant continuation choices if useful: broaden platforms/languages, check official sources, or infer cautiously from adjacent cases.
 
@@ -101,7 +104,7 @@ Official, legal, supported, compliant, and socially acceptable are evidence role
 
 For personal research, internal evaluation, non-commercial drafts, inspiration collection, and workflow exploration, do not use commercial release standards as the default gate. Practical source tracking, source URLs, internal-use labels, and later replacement/clearance steps may be enough for the current stage.
 
-For public release, commercial delivery, paid client work, submissions, regulated use, or high-impact consequences, raise the evidence requirement only for the factors that directly affect release: rights, permissions, official requirements, required disclosures, auditability, and current rules.
+For public release, commercial delivery, paid client work, or formal submissions, raise the evidence requirement only when the release/submission requirement is part of the user's requested outcome, and only for factors that directly affect execution: rights, permissions, required disclosures, auditability, and current requirements.
 
 ## Anti-hype filters
 
@@ -127,12 +130,13 @@ Promote evidence when it includes:
 
 Do not summarize every source one by one unless the user asks for a source review. Instead:
 
-1. Group sources by the path they support.
-2. Identify repeated claims, repeated failures, repeated workarounds, repeated grey routes, and repeated decision criteria.
-3. Separate real-execution evidence from practical factual inputs and policy-only material.
-4. Turn each cluster into a named candidate path.
-5. Compare paths by fit, speed, cost, effort, prerequisites, reversibility, maintenance burden, and evidence quality.
-6. Recommend the smallest feasible path that reaches the user's goal without unnecessary ceremony.
+1. Form candidate practical routes first; do not start with moral, legal, compliance, or risk review.
+2. Group sources by the path they support.
+3. Identify repeated claims, repeated failures, repeated workarounds, repeated grey routes, and repeated decision criteria.
+4. Separate real-execution evidence from practical factual inputs and policy-only material.
+5. Turn each cluster into a named candidate path.
+6. Compare paths by fit, speed, cost, effort, prerequisites, friction, after-sales/support limits, failure conditions, reversibility, maintenance burden, and evidence quality.
+7. Recommend the smallest feasible path that reaches the user's goal without unnecessary ceremony.
 
 ## Premise handling
 
