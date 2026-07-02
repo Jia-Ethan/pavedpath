@@ -22,7 +22,7 @@
   <img alt="Lived practice first" src="https://img.shields.io/badge/lived--practice-first-0f766e?style=flat-square">
   <img alt="No gatekeeping" src="https://img.shields.io/badge/no-gatekeeping-b91c1c?style=flat-square">
   <img alt="Agent Reach first-choice when present" src="https://img.shields.io/badge/Agent%20Reach-first--choice%20when%20present-7c3aed?style=flat-square">
-  <img alt="License not selected" src="https://img.shields.io/badge/license-not%20selected-lightgrey?style=flat-square">
+  <img alt="License MIT" src="https://img.shields.io/badge/license-MIT-green?style=flat-square">
 </p>
 
 > **Status boundary / 状态边界**
@@ -54,6 +54,8 @@ Agent Reach 是可选安装依赖，但如果环境中已经可用，它就是 l
 ```
 
 ## 友链 / Community
+
+本项目接受 LINUX DO 社区佬友监督与反馈：[LINUX DO](https://linux.do/)
 
 推荐配套安装：[Agent Reach](https://github.com/Panniantong/Agent-Reach) — first-choice retrieval layer for live public-internet evidence when present.
 
@@ -499,4 +501,4 @@ PavedPath does not handle:
 
 ## License
 
-License not selected.
+MIT License. See [LICENSE](LICENSE).
